@@ -19,7 +19,7 @@
         <p>🔹 Compatibilidade com outras linguagens como Python e C para expansão da funcionalidade.</p>
         <hr>
         <h2>👨‍🏫 Professor</h2>
-        <p><strong>Roberto Felipe Andrade Menezes</strong></p>
+        <p><strong>Roberto Felipe Andrade Menezes - IFES</strong></p>
         <p>📂 Este repositório contém exemplos e projetos práticos que demonstram o uso do MATLAB em diferentes contextos.</p>
     </div>
 </body>
